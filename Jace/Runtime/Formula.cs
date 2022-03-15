@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Contra.Core.DataTypes
+namespace Jace.Runtime
 {
     [Serializable]
     public class Formula

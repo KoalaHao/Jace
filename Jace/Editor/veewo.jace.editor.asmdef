@@ -1,6 +1,6 @@
 {
     "name": "veewo.jace.editor",
-    "rootNamespace": "",
+    "rootNamespace": "JaceEditor",
     "references": [
         "GUID:0a26db2047bfe473bab51b189d97bda7",
         "GUID:3089e36cada481a48ac997d1954f1b5c"

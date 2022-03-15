@@ -1,8 +1,9 @@
+using Jace.Runtime;
 using UnityEditor;
 using UnityEngine;
 using Veewo.Framework.UnityExtensions;
 
-namespace Contra.Core.DataTypes
+namespace JaceEditor
 {
     [CustomPropertyDrawer(typeof(Formula))]
     public class FormulaDrawer : PropertyDrawer

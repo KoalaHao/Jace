@@ -2,11 +2,10 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
-using Jace;
 using Jace.Execution;
 using UnityEngine;
 
-namespace Contra.Core.DataTypes
+namespace Jace.Runtime
 {
     public abstract class FormulaDomain : ScriptableObject, IDictionary<string, double>
     {

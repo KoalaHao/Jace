@@ -1,4 +1,4 @@
-namespace Contra.Core.DataTypes
+namespace Jace.Runtime
 {
     public interface IFormulaDomainContainer
     {
