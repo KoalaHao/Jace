@@ -1,0 +1,19 @@
+{
+    "name": "veewo.jace.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0a26db2047bfe473bab51b189d97bda7",
+        "GUID:3089e36cada481a48ac997d1954f1b5c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

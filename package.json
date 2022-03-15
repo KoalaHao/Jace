@@ -1,0 +1,9 @@
+{
+  "name": "com.veewo.jace",
+  "displayName": "Jace",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "description": "Just another calculation engine",
+  "type": "library"
+}
